@@ -417,7 +417,7 @@
   "/apkpure/versions/:pkg/:region?": [
     "maple3142"
   ],
-  "/apnews/rss/:rss?": [
+  "/apnews/rss/:category?": [
     "zoenglinghou",
     "mjysci",
     "TonyRL"
@@ -1949,6 +1949,9 @@
     "nczitzk"
   ],
   "/fda/cdrh/:titleOnly?": [],
+  "/fediverse/timeline/:account": [
+    "DIYgod"
+  ],
   "/feng/forum/:id/:type?": [
     "TonyRL"
   ],
@@ -3738,6 +3741,9 @@
     "hoilc",
     "DIYgod"
   ],
+  "/microsoft/mcr/product/*": [
+    "margani"
+  ],
   "/mihoyo/bbs/follow-list/:uid": [
     "CaoMeiYouRen"
   ],
@@ -3827,6 +3833,9 @@
   ],
   "/modrinth/project/:id/versions/:routeParams?": [
     "SettingDust"
+  ],
+  "/moduzy/:type/:hours?": [
+    "hualiong"
   ],
   "/mohw/clarification": [
     "nczitzk"
@@ -4358,7 +4367,8 @@
     "fang63625"
   ],
   "/ollama/library": [
-    "Nick22nd"
+    "Nick22nd",
+    "gavrilov"
   ],
   "/oncc/:language/:channel?": [
     "Fatpandac"
